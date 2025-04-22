@@ -1,0 +1,28 @@
+a{
+    position: fixed;
+    top: 20px;
+    right: 20px;
+}
+body{
+    background-color:rgb(pink, green, blue);
+}
+table{
+    width: 100%;
+    border-radius: 8px;
+    overflow: hidden;
+    background-color:pink;
+}
+th {
+    border: 1px solid palevioletred;
+    padding: 12px;
+    background-color:pink;
+    color:white;
+}
+td{
+    border:0.5px solid palevioletred;
+}
+h2 {
+    font-size: 28px;
+    color: palevioletred;
+    text-align: center;
+}
